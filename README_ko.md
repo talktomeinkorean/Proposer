@@ -1,5 +1,4 @@
-# 프로젝트명  
-**Paddle ↔ Kajabi 구독 연동 미들웨어 풀스택 개발**
+# Paddle ↔ Kajabi 구독 연동 미들웨어 풀스택 개발
 
 ---
 
@@ -12,6 +11,7 @@ Paddle 기반 구독 결제와 Kajabi 콘텐츠 권한 시스템을 연결하는
 - Kajabi API 연동 → 콘텐츠 권한 부여/회수  
 - 깃허브로 코드, 이슈, 태스크로 관리  
 - 기술 문서 및 WBS(업무 분해표) 제공  
+- Paddle 팀과 협업하며, 기술지원 제공
 - **내부 개발자와 협업하며, 국내 개발자의 경우 사무실 출근 필수 (협의 가능)**
 
 ---
@@ -32,7 +32,7 @@ Paddle 기반 구독 결제와 Kajabi 콘텐츠 권한 시스템을 연결하는
 
 | 분류 | 스택 |
 |------|------|
-| Backend | Node.js or Python, Paddle SDK, REST API |
+| Backend | Node.js or Python, Paddle SDK, KAJABI REST API |
 | Frontend | React / Next.js |
 | Database | PostgreSQL (RDS or Supabase) |
 | Infra | AWS Lambda, API Gateway, SQS, CDK |
@@ -43,7 +43,8 @@ Paddle 기반 구독 결제와 Kajabi 콘텐츠 권한 시스템을 연결하는
 
 ## 우대 사항  
 
-- Paddle, Stripe, PayPal 등 결제 API 연동 경험  
+- Paddle, PayPal 등 결제 API 연동 경험  
+- LMS 서비스 경험  
 - 서버리스 환경에 대한 이해와 경험  
 - 영어 기반 문서 및 API 명세서 이해 가능  
 - Supabase 또는 PostgreSQL 실무 운영 경험  
@@ -53,22 +54,12 @@ Paddle 기반 구독 결제와 Kajabi 콘텐츠 권한 시스템을 연결하는
 
 ## ⏱ 개발 일정 및 조건  
 
-- 개발 기간: 약 6~8주 (총 360~400시간 내외)  
+- 개발 기간: 약6~8주 (총360~400시간 내외)  
 - 깃허브로 이슈, 코드, CI/CD 자동화  
 - 기술 문서 및 WBS 모두 제공  
 - 회의 및 리뷰 미팅 **필수 참석**  
 - 국내 개발자: **사무실 출근 필수 (협의 가능)**
 
----
-
-## 팀 구성  
-
-- 백엔드 개발자 2명  
-- 프론트 개발자 1명  
-- 디자이너 1명  
-- PM/기획 1명  
-- QA 0.5명  
-- DBA 0.5명
 
 ---
 
