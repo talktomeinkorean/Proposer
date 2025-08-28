@@ -76,8 +76,7 @@
 ---
 
 ## 6. 참고 링크
-
-- [TTMIK 공식 웹사이트](https://talktomeinkorean.com)  
+- [2025년 공모 선정 상품명과 업체명](https://www.nmf.or.kr/user/board/20180830162104393100_view.do?article_id=20250604091645073100)
 - [TTMIK 교재 할인 및 공급 정책](https://store.talktomeinkorean.com/pages/book-discount-for-teachers-and-suppliers)  
 - [국립박물관문화재단 문화상품 공모 안내 (2025년)](https://www.nmf.or.kr/user/board/20180830162104393100_view.do?article_id=20241219105125796100)
 
